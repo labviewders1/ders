@@ -1,0 +1,2 @@
+# ders
+ derste hazırlandı.
